@@ -1,4 +1,4 @@
-# DiggFront
+# Test Applikation
 
 ## Project Setup
 
